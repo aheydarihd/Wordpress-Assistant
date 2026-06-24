@@ -1,0 +1,6 @@
+{
+  "name": "WiliWeb - WordPress Designer Toolkit",
+  "description": "مجموعه ابزار و دستیار فوق‌حرفه‌ای طراحان سایت وردپرس توسعه داده شده توسط ویلی وب (WiliWeb)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
